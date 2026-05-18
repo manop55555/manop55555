@@ -1,6 +1,6 @@
 # manop55555
 
-Cybersecurity Researcher
+maybe 0 or 1
 
 ## Tools & Languages
 
