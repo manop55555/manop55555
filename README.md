@@ -4,7 +4,7 @@ maybe 0 or 1
 
 ## Tools & Languages
 
-[![Skills](https://skillicons.dev/icons?i=bash,c,cpp,go,git,linux,lua,perl,python,ruby,rust,vim,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,c,cpp,go,git,linux,lua,perl,python,ruby,rust,vim,vscode,sublime&theme=dark)](https://skillicons.dev)
 
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-A0522D?style=flat-square&logoColor=white)
 ![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-4B0082?style=flat-square&logoColor=white)
